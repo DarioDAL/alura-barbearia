@@ -25,14 +25,14 @@ p {text-align: center;}
 
 em forte (cor: #FF0000;}
 
-itens (font-style:italic;font-size:25px;}
+.itens (font-style:italic;font-size:25px;}
 
-beneficios{background:#FFFFFF;padding:20px;}
+.beneficios{background:#FFFFFF;padding:20px;}
 
-principal (fundo:#CCCCCC;preenchimento:30px;}
+.principal (fundo:#CCCCCC;preenchimento:30px;}
 
 h2{text-align:center;}
 
-imagembeneficios (width: 60%;}
+.imagembeneficios (width: 60%;}
 
 ul {display:inline-block;vertical-align:top;}
